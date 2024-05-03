@@ -1,7 +1,7 @@
 :root {
-    --color-bg: #0C111F;
-    --color-light: #20293A;
-    --color-lighter: #3eadf2;
+    --color-bg: #004e8d;
+    --color-light: #0095cf;
+    --color-lighter: #D9E41F;
     --color-lightest: #5FBAF4;
 }
 
@@ -9,7 +9,7 @@
     font-family: "Darumadrop One", sans-serif;
     font-weight: 400;
     font-style: normal;
-  }
+}
 
 body, 
 html {
@@ -54,7 +54,7 @@ form {
     margin: 0 auto 50px auto;
     width: 100px;
     height: auto;
-  }
+}
 
 h1 {
     color: white;
@@ -132,7 +132,7 @@ input[type="submit"] {
         }
 
         & span.cp {
-            color: var(--color-lighter);
+            color: #D9E41F;
             font-size: 1.5rem;
             font-weight: bold;
             margin-right: 1rem;
@@ -141,7 +141,7 @@ input[type="submit"] {
         & span.ville {
             color: white;
             font-size: 1.5rem;
-            font-weight: bold;
+            font-weight: lighter;
         }
     }
 
